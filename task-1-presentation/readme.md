@@ -5,4 +5,4 @@ This infographic was created using Canva as part of the Digital Literacy project
 The design is kept simple and structured to ensure clarity and readability.
 
 ## Infographic Preview
-[Digital Literacy Infographic](inforgraphic vityarthi.png)
+[Digital Literacy Infographic](Infographic vityarthi.png)
