@@ -1,13 +1,13 @@
-# Task 4: Email Etiquette and Social Media Awareness
+# Task 4 – Email and Social Media Checklist
 
-This folder contains my work for Task 4 of the Digital Literacy project.
-
-In this task, I wrote two professional emails. The first email is about requesting an extension from a professor, and the second email is about applying for a summer internship. Both emails are written in a proper format with subject, greeting, body, and closing.
-
-I also created a simple checklist of Do’s and Don’ts for responsible use of social media as a college student.
-
-Additionally, I included a short write-up in the report explaining how poor digital communication can create problems and how it can be avoided.
+## Overview
+This task includes an example of proper email etiquette and a checklist for responsible social media use. It helps students communicate effectively and maintain good online habits.
 
 ## Files Included
-Email 
-social-media-checklist.md  
+[Email.docx](./Email.docx) – Sample email showing correct format, tone, and etiquette.
+[social-media-checklist.md](./social-media-checklist.md) – Checklist of Do’s and Don’ts for using social media responsibly.
+
+## Instructions
+1. Click on **Email.docx** to view the example email and understand professional email writing.  
+2. Click on **social-media-checklist.md** to view the checklist and learn best practices for social media use.  
+3. Use these files as guides to improve communication and maintain a safe online presence.
