@@ -1,8 +1,19 @@
-This folder contains screenshots of my digital profiles created for Task 2.
+# Task 2: Digital Portfolio
 
-Platforms included:
-- GitHub
-- LinkedIn
-- (Add your third platform here like Kaggle)
+This folder contains screenshots of my digital profiles created as part of the Digital Literacy project.
 
-These profiles represent my initial digital portfolio as a student.
+## Platforms Used
+- GitHub – for storing and managing projects  
+- LinkedIn – for building a professional network  
+- Kaggle – for learning data science  
+
+## Profile Screenshots
+
+### GitHub
+![GitHub Profile](github.profile.png)
+
+### LinkedIn
+![LinkedIn Profile](linkedin.profile.png)
+
+### Kaggle
+![Kaggle Profile](kaggle.profile.png)
