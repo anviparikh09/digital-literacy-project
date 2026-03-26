@@ -9,6 +9,6 @@ I completed a beginner-level coding problem on HackerRank titled "Solve Me First
 I created a Digital Literacy Awareness Quiz using Google Forms. The quiz includes multiple-choice and short-answer questions to test basic knowledge of digital tools and safe internet practices.
 
 ## ## Screenshots
-![Coding](coding.png) Screenshot of completed coding problem 
+![Code](code.png) Screenshot of completed coding problem 
 ![Form](form.png) Screenshot of the Google Form  
 ![Response](response.png) Screenshot of quiz responses with scores
