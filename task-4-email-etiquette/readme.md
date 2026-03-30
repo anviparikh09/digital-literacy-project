@@ -4,7 +4,7 @@
 This task includes an example of proper email etiquette and a checklist for responsible social media use. It helps students communicate effectively and maintain good online habits.
 
 ## Files Included
-[Email.docx](./Email.pdf) – Sample email showing correct format, tone, and etiquette.
+[Email.pdf](./Email.pdf) – Sample email showing correct format, tone, and etiquette.
 
 [social-media-checklist.md](./social-media-checklist.md) – Checklist of Do’s and Don’ts for using social media responsibly.
 
